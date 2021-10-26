@@ -1,9 +1,10 @@
 int main(int argc, char const *argv[])
 {
-    if (/* condition */)
+    while (/* condition */)
     {
         /* code */
     }
+    
     
     return 0;
 }
